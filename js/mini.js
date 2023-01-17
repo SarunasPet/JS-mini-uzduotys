@@ -193,3 +193,4 @@ if(darzove.length <= spalva.length){
     }else{
         console.log('Bandykite kita karta');
     }
+    
